@@ -1,8 +1,10 @@
 <div align="center">
 
-<a href="https://github.com/abdurrahman422">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&section=header&text=ABDUR%20RAHMAN&fontSize=54&fontColor=FFFFFF&fontAlignY=36&desc=AI%20ENGINEERING%20%20%2F%20%20INTELLIGENT%20SYSTEMS&descAlignY=59&descSize=16&animation=fadeIn&color=0:0B1020,50:1E1B4B,100:312E81" width="100%" alt="Abdur Rahman"/>
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="Abdur Rahman's GitHub profile" src="dark_mode.svg" width="100%" />
+</picture>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=I+build+software%2C+tools%2C+web+apps+and+automation.;AI-powered+software+%7C+Intelligent+Automation;Web+Development+%7C+Android+Applications;AI%2C+Machine+Learning+%26+Computer+Vision" alt="Animated headline"/>
 
