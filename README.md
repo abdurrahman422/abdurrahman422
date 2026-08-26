@@ -8,6 +8,12 @@
 
 <br>
 
+<a href="https://abdurrahman-khaki.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-312E81?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/abdurrahman422/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:abdurrahman422488@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+<br><br>
+
 <img src="https://komarev.com/ghpvc/?username=abdurrahman422&style=for-the-badge&color=312E81&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
@@ -175,17 +181,15 @@ A broader collection of software, AI experiments, interfaces, tools and product 
 
 <br>
 
+## 🌐 CONNECT
+
 <div align="center">
 
-### LET'S BUILD SOMETHING INTELLIGENT.
+<a href="https://abdurrahman-khaki.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-abdurrahman--khaki.vercel.app-312E81?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 
-<a href="https://github.com/abdurrahman422?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-312E81?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/></a>
-<a href="mailto:ar422487@gmail.com"><img src="https://img.shields.io/badge/CONTACT%20ME-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact"/></a>
+<a href="https://www.linkedin.com/in/abdurrahman422/"><img src="https://img.shields.io/badge/LINKEDIN-Abdur%20Rahman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
-<br><br>
-
-<a href="https://github.com/abdurrahman422"><img src="https://img.shields.io/badge/GitHub-abdurrahman422-0B1020?style=flat&logo=github&logoColor=white"/></a>
-<a href="mailto:ar422487@gmail.com"><img src="https://img.shields.io/badge/ar422487%40gmail.com-0B1020?style=flat&logo=gmail&logoColor=white"/></a>
+<a href="mailto:abdurrahman422488@gmail.com"><img src="https://img.shields.io/badge/EMAIL-abdurrahman422488%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <br><br>
 
