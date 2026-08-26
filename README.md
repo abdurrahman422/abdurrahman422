@@ -65,30 +65,30 @@ AI is an important part of my work, especially **AI-powered automation, intellig
 
 <br>
 
-## ⚡ SELECTED BUILDS
+## ⚡ FEATURED PROJECTS
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### JARVIS V2
+### NEXA AI
 
-**AI Desktop Assistant**
+**Intelligent AI Assistant Platform**
 
-Voice interaction, intelligent command routing, AI fallback, system automation and a futuristic interface.
+An AI-focused software system built around practical assistant workflows, service integration, automation, and extensible architecture.
 
-`Python` `AI` `Voice` `Automation`
+`AI` `Automation` `Backend` `Python`
 
-<a href="https://github.com/abdurrahman422/jarvis-v2">↗ Explore project</a>
+<a href="https://github.com/abdurrahman422/nexa_ai">↗ Explore project</a>
 
 </td>
 <td width="50%" valign="top">
 
 ### STUDYTYPE AI
 
-**AI Learning Intelligence**
+**AI-Powered Learning Platform**
 
-Written-recall assessment, semantic AI evaluation, telemetry, scoring and learning analytics.
+A full-stack learning system combining written-recall assessment, semantic AI evaluation, analytics, telemetry, and intelligent feedback.
 
 `TypeScript` `Gemini` `AI` `Full Stack`
 
@@ -99,28 +99,28 @@ Written-recall assessment, semantic AI evaluation, telemetry, scoring and learni
 <tr>
 <td width="50%" valign="top">
 
-### NEXA AI
+### BAUET ACADEMIC ECOSYSTEM
 
-**Intelligent Assistant Platform**
+**Academic Management & Student Platform**
 
-An extensible AI system exploring practical interaction, service integration and automation.
+A large-scale software ecosystem focused on academic workflows, management, student services, and connected digital systems.
 
-`AI` `Backend` `Automation`
+`Web` `Systems` `Management` `Software`
 
-<a href="https://github.com/abdurrahman422/nexa_ai">↗ Explore project</a>
+<a href="https://github.com/abdurrahman422/bauet-academic-ecosystem">↗ Explore project</a>
 
 </td>
 <td width="50%" valign="top">
 
-### AI PORTFOLIO
+### BOSSFEED
 
-**Experimental Engineering Space**
+**Full-Stack Business Management Platform**
 
-A broader collection of software, AI experiments, interfaces, tools and product concepts.
+A complete business-oriented web system covering products, users, orders, payments, administration, and operational workflows.
 
-`AI` `Software` `Experiments`
+`Web` `PHP` `MySQL` `Management`
 
-<a href="https://github.com/abdurrahman422/ai-portfolio">↗ Explore project</a>
+<a href="https://github.com/abdurrahman422/BossFeed">↗ Explore project</a>
 
 </td>
 </tr>
@@ -140,10 +140,10 @@ A broader collection of software, AI experiments, interfaces, tools and product 
 
 <br>
 
-## 🧬 AI CAPABILITY MATRIX
+## 🧬 ENGINEERING FOCUS
 
 <table>
-<tr><th>Domain</th><th>Focus</th><th>Role in My Work</th></tr>
+<tr><th>Domain</th><th>Focus</th><th>Priority</th></tr>
 <tr><td>Software Development</td><td>Applications · Tools · Systems</td><td>Primary</td></tr>
 <tr><td>Web Development</td><td>Frontend · Backend · APIs</td><td>Primary</td></tr>
 <tr><td>Automation</td><td>AI Automation · Workflows · Productivity</td><td>Primary</td></tr>
