@@ -1,130 +1,168 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=ABdur%20RAHMAN&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&color=0:020617,55:0f172a,100:1e1b4b" width="100%" alt="Abdur Rahman"/>
+# Assalamualaikum 👋, I'm Abdur Rahman
 
-# AI ENGINEER
+### 🤖 AI Engineer · 🧠 ML/DL · ⚙️ Software Systems · 🦾 Robotics Software
 
-**Artificial Intelligence · Intelligent Systems · Software Engineering**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=8B5CF6&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;I+build+AI-powered+software+systems.;Machine+Learning+%7C+Deep+Learning+%7C+LLMs;Automation+%7C+Computer+Vision+%7C+Robotics+Software;Always+learning%2C+building%2C+and+shipping." alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=94A3B8&center=true&vCenter=true&width=760&lines=Building+intelligent+software+with+purpose.;ML+%2F+Deep+Learning+%2F+LLMs+%2F+Automation;Robotics+Software+%2F+Computer+Vision+%2F+AI+Systems" alt="Focus"/>
-
-<br/>
-
-<a href="https://github.com/abdurrahman422">GitHub</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="mailto:ar422487@gmail.com">Email</a>
+<p>
+  <a href="https://github.com/abdurrahman422"><img src="https://img.shields.io/badge/GitHub-abdurrahman422-18181B?style=flat&logo=github&logoColor=white" /></a>
+  <a href="mailto:ar422487@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=abdurrahman422&style=flat&color=7C3AED&label=Profile+Views" alt="Profile views" />
+</p>
 
 </div>
 
 ---
 
-## PROFILE
+### 🔥 About Me
 
-I build software around **intelligence** — AI assistants, machine-learning systems, deep-learning experiments, LLM applications, automation, computer vision, and robotics-oriented software.
+- 🤖 I mainly work on **Artificial Intelligence, Machine Learning, Deep Learning, Neural Networks, LLMs, and intelligent automation**
+- ⚙️ I also build **full-stack software, developer tools, APIs, and management systems**
+- 🦾 My robotics interest is focused on **software, perception, computer vision, and intelligent systems** rather than hardware/mechanical design
+- 🧪 I enjoy turning ideas and experiments into **usable, production-oriented software**
+- 🌱 Currently exploring **AI agents, multimodal systems, computer vision, local AI, and robotics software**
+- 💬 Ask me about **Python, TypeScript, JavaScript, C/C++, PHP, AI systems, APIs, automation, and software architecture**
 
-My approach is simple: **research the idea, engineer the system, ship the result.**
+---
+
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,cpp,c,php,react,nodejs,fastapi,pytorch,tensorflow,opencv,docker,linux,mysql,git,github&perline=9" alt="Languages and tools" />
+</p>
+
+---
+
+### 🧠 AI / Engineering Focus
+
+<p align="left">
+  <img src="https://img.shields.io/badge/AI-Engineering-7C3AED?style=flat" />
+  <img src="https://img.shields.io/badge/Machine-Learning-2563EB?style=flat" />
+  <img src="https://img.shields.io/badge/Deep-Learning-DB2777?style=flat" />
+  <img src="https://img.shields.io/badge/LLMs-111827?style=flat" />
+  <img src="https://img.shields.io/badge/AI-Agents-059669?style=flat" />
+  <img src="https://img.shields.io/badge/Computer-Vision-0891B2?style=flat" />
+  <img src="https://img.shields.io/badge/Automation-D97706?style=flat" />
+  <img src="https://img.shields.io/badge/Robotics-Software-4F46E5?style=flat" />
+</p>
+
+---
+
+### 🚀 Featured Projects
 
 <table>
 <tr>
-<td><b>AI</b><br/>LLMs · Agents · Generative AI</td>
-<td><b>ML</b><br/>Models · Evaluation · Pipelines</td>
-<td><b>Systems</b><br/>APIs · Automation · Full Stack</td>
-<td><b>Robotics</b><br/>Intelligent Software · Vision</td>
+<td width="50%" valign="top">
+
+#### 🤖 Jarvis V2
+
+A futuristic Windows AI assistant with intelligent command routing, voice interaction, AI fallback, and system automation.
+
+**Focus:** AI · Voice · Automation · Python
+
+<a href="https://github.com/abdurrahman422/jarvis-v2">View Repository →</a>
+
+</td>
+<td width="50%" valign="top">
+
+#### 🧠 StudyType AI
+
+An AI-powered written-recall learning platform with semantic evaluation, academic scoring, telemetry, and analytics.
+
+**Focus:** AI · Gemini · TypeScript · Full Stack
+
+<a href="https://github.com/abdurrahman422/StudyType-AI">View Repository →</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🌐 Nexa AI
+
+An intelligent assistant project focused on practical AI interaction, service integration, and extensible architecture.
+
+**Focus:** AI · Backend · Automation
+
+<a href="https://github.com/abdurrahman422/nexa_ai">View Repository →</a>
+
+</td>
+<td width="50%" valign="top">
+
+#### 🌱 AI Portfolio
+
+A broader collection of my software, AI experiments, interfaces, tools, and product-oriented work.
+
+**Focus:** AI · Software · Experiments
+
+<a href="https://github.com/abdurrahman422/ai-portfolio">View Repository →</a>
+
+</td>
 </tr>
 </table>
 
 ---
 
-## SELECTED WORK
+### 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abdurrahman422&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdurrahman422&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
-<a href="https://github.com/abdurrahman422/jarvis-v2">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=abdurrahman422&repo=jarvis-v2&theme=github_dark&hide_border=true&title_color=A78BFA&icon_color=94A3B8" alt="Jarvis V2"/>
-</a>
-<a href="https://github.com/abdurrahman422/StudyType-AI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=abdurrahman422&repo=StudyType-AI&theme=github_dark&hide_border=true&title_color=A78BFA&icon_color=94A3B8" alt="StudyType AI"/>
-</a>
-
-</div>
-
-### Jarvis V2
-AI desktop assistant with intelligent command routing, voice interaction and Windows automation.
-
-### StudyType AI
-AI learning platform built around written recall, semantic evaluation, telemetry and knowledge analytics.
-
-### Nexa AI
-AI assistant platform exploring practical intelligent interaction and extensible software architecture.
-
-[View all projects →](https://github.com/abdurrahman422?tab=repositories)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=abdurrahman422&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
-## TECHNOLOGY
+### 🏆 Achievements
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,ts,js,cpp,php,react,nodejs,fastapi,pytorch,tensorflow,opencv,docker,linux,git,github,mysql&perline=8" alt="Technology stack"/>
-
-<br/><br/>
-
-`Python` · `TypeScript` · `JavaScript` · `C/C++` · `PHP`
-
-`PyTorch` · `TensorFlow` · `OpenCV` · `LLMs` · `AI Agents`
-
-`FastAPI` · `Node.js` · `React` · `Docker` · `Linux`
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abdurrahman422&theme=onestar&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="GitHub Trophies" />
+</p>
 
 ---
 
-## CURRENT DIRECTION
+### 🧪 Currently Building / Exploring
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2600&pause=900&color=CBD5E1&center=true&vCenter=true&width=860&lines=Multimodal+AI;Agentic+Systems;Local+%2F+On-Device+AI;Computer+Vision;AI+Infrastructure;Robotics+Software" alt="Current direction"/>
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=800&color=10B981&center=true&vCenter=true&width=760&lines=Advanced+AI+Agents;Multimodal+AI+Applications;Local+%2F+On-Device+AI;Computer+Vision+Systems;Robotics+Software+Experiments;Production-Grade+AI+Infrastructure" alt="Currently building" />
+</p>
 
 ---
 
-## ENGINEERING SIGNAL
+### 📂 More of My Work
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=abdurrahman422&show_icons=true&rank_icon=github&theme=github_dark&hide_border=true&title_color=A78BFA&icon_color=94A3B8&text_color=CBD5E1" alt="GitHub stats"/>
-&nbsp;&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdurrahman422&layout=compact&langs_count=8&theme=github_dark&hide_border=true&title_color=A78BFA&text_color=CBD5E1" alt="Top languages"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=abdurrahman422&theme=github-dark-blue&hide_border=true&ring=A78BFA&fire=8B5CF6&currStreakLabel=CBD5E1" alt="GitHub streak"/>
-
-</div>
+<p>
+  <a href="https://github.com/abdurrahman422?tab=repositories"><img src="https://img.shields.io/badge/Explore-All%20Repositories-18181B?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 ---
 
-## CONTRIBUTION FLOW
+### 🌍 Connect With Me
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/abdurrahman422/abdurrahman422/output/github-contribution-grid-snake-dark.svg" alt="Contribution activity"/>
-
-</div>
+<p align="left">
+  <a href="https://github.com/abdurrahman422">
+    <img src="https://img.shields.io/badge/GitHub-18181B?style=flat&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:ar422487@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
+### 👀 Visitors
+
+<p align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=abdurrahman422" alt="visitor badge" />
+</p>
+
 <div align="center">
 
-### BUILD · LEARN · ENGINEER · REPEAT
-
-<a href="https://github.com/abdurrahman422?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE%20PROJECTS-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/>
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=105&section=footer&color=0:1e1b4b,55:0f172a,100:020617" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:7C3AED,50:111827,100:020617" width="100%" alt="Footer" />
 
 </div>
