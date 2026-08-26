@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=210&section=header&text=ABDUR%20RAHMAN&fontSize=54&fontColor=FFFFFF&fontAlignY=36&desc=AI%20ENGINEERING%20%20%2F%20%20INTELLIGENT%20SYSTEMS&descAlignY=59&descSize=16&animation=fadeIn&color=0:0B1020,50:1E1B4B,100:312E81" width="100%" alt="Abdur Rahman"/>
 </a>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=I+build+AI-powered+software+systems.;Machine+Learning+%7C+Deep+Learning+%7C+LLMs;Computer+Vision+%7C+Automation+%7C+Robotics+Software;Turning+ideas+into+working+systems." alt="Animated headline"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=I+build+software%2C+tools%2C+web+apps+and+automation.;AI-powered+software+%7C+Intelligent+Automation;Web+Development+%7C+Android+Applications;AI%2C+Machine+Learning+%26+Computer+Vision" alt="Animated headline"/>
 
 <br>
 
@@ -26,18 +26,18 @@
 <tr>
 <td width="62%" valign="top">
 
-I’m an **AI Engineer and Software Systems Developer** focused on building practical intelligent systems.
+I’m a **Software Developer and AI-focused Engineer** who enjoys designing and building practical digital products.
 
-My strongest interests sit around **Machine Learning, Deep Learning, Neural Networks, LLM applications, AI agents, automation, computer vision, and robotics software**.
+Most of my work revolves around **software development, web development, automation, tool design, system planning, and product building**. I also build **Android applications, APIs, management systems, and developer tools** when a project needs a complete solution.
 
-I also work across full-stack development, APIs, developer tools, and management systems when a project needs the complete product layer.
+AI is an important part of my work, especially **AI-powered automation, intelligent tools, computer vision, and AI-assisted applications**. I also explore **Machine Learning, Deep Learning, and Neural Networks** as supporting areas.
 
-**Build → Experiment → Engineer → Ship**
+**Plan → Design → Build → Automate → Improve**
 
 </td>
 <td width="38%" align="center" valign="middle">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,ts,react,fastapi,nodejs,docker,linux,git,github&perline=4" alt="Core stack"/>
+<img src="https://skillicons.dev/icons?i=python,ts,js,cpp,c,php,react,nodejs,fastapi,androidstudio,pytorch,opencv&perline=4" alt="Core stack"/>
 
 </td>
 </tr>
@@ -49,17 +49,17 @@ I also work across full-stack development, APIs, developer tools, and management
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-7C3AED?style=for-the-badge&labelColor=0B1020"/>
-<img src="https://img.shields.io/badge/MACHINE%20LEARNING-2563EB?style=for-the-badge&labelColor=0B1020"/>
-<img src="https://img.shields.io/badge/DEEP%20LEARNING-DB2777?style=for-the-badge&labelColor=0B1020"/>
-<img src="https://img.shields.io/badge/LLM%20%2F%20AGENTS-059669?style=for-the-badge&labelColor=0B1020"/>
+<img src="https://img.shields.io/badge/SOFTWARE%20DEVELOPMENT-475569?style=for-the-badge&labelColor=0B1020"/>
+<img src="https://img.shields.io/badge/WEB%20DEVELOPMENT-2563EB?style=for-the-badge&labelColor=0B1020"/>
+<img src="https://img.shields.io/badge/AUTOMATION-7C3AED?style=for-the-badge&labelColor=0B1020"/>
+<img src="https://img.shields.io/badge/TOOL%20DESIGN-D97706?style=for-the-badge&labelColor=0B1020"/>
 
 <br><br>
 
+<img src="https://img.shields.io/badge/AI%20ENGINEERING-059669?style=for-the-badge&labelColor=0B1020"/>
+<img src="https://img.shields.io/badge/ANDROID%20APPS-22C55E?style=for-the-badge&labelColor=0B1020"/>
 <img src="https://img.shields.io/badge/COMPUTER%20VISION-0891B2?style=for-the-badge&labelColor=0B1020"/>
-<img src="https://img.shields.io/badge/AUTOMATION-D97706?style=for-the-badge&labelColor=0B1020"/>
-<img src="https://img.shields.io/badge/ROBOTICS%20SOFTWARE-4F46E5?style=for-the-badge&labelColor=0B1020"/>
-<img src="https://img.shields.io/badge/SOFTWARE%20ENGINEERING-475569?style=for-the-badge&labelColor=0B1020"/>
+<img src="https://img.shields.io/badge/ML%20%2F%20DL-DB2777?style=for-the-badge&labelColor=0B1020"/>
 
 </div>
 
@@ -131,11 +131,11 @@ A broader collection of software, AI experiments, interfaces, tools and product 
 ## ◇ STACK
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,ts,js,cpp,c,php,react,nodejs,fastapi,pytorch,tensorflow,opencv,docker,linux,mysql,postgres,git,github&perline=9" alt="Technology stack"/>
+<img src="https://skillicons.dev/icons?i=python,ts,js,cpp,c,php,react,nodejs,fastapi,androidstudio,pytorch,tensorflow,opencv,docker,linux,mysql,postgres,git,github&perline=9" alt="Technology stack"/>
 </p>
 
 <p align="center">
-<code>Python</code> · <code>TypeScript</code> · <code>JavaScript</code> · <code>C/C++</code> · <code>PHP</code> · <code>PyTorch</code> · <code>TensorFlow</code> · <code>OpenCV</code> · <code>FastAPI</code> · <code>React</code> · <code>Node.js</code> · <code>Docker</code>
+<code>Python</code> · <code>TypeScript</code> · <code>JavaScript</code> · <code>C/C++</code> · <code>PHP</code> · <code>React</code> · <code>Node.js</code> · <code>FastAPI</code> · <code>Android</code> · <code>PyTorch</code> · <code>OpenCV</code> · <code>Docker</code>
 </p>
 
 <br>
@@ -143,28 +143,25 @@ A broader collection of software, AI experiments, interfaces, tools and product 
 ## 🧬 AI CAPABILITY MATRIX
 
 <table>
-<tr><th>Domain</th><th>Focus</th><th>Engineering Layer</th></tr>
-<tr><td>Generative AI</td><td>LLMs · AI Agents · RAG</td><td>Application / Inference</td></tr>
-<tr><td>Machine Learning</td><td>Models · Evaluation · Pipelines</td><td>Data / Model</td></tr>
-<tr><td>Deep Learning</td><td>Neural Networks · CNNs</td><td>Training / Inference</td></tr>
-<tr><td>Computer Vision</td><td>Image Processing · Vision Systems</td><td>Perception</td></tr>
-<tr><td>Intelligent Automation</td><td>Assistants · Workflows · Tools</td><td>Systems</td></tr>
-<tr><td>Robotics Software</td><td>Perception · Decision Logic · AI</td><td>Intelligent Systems</td></tr>
+<tr><th>Domain</th><th>Focus</th><th>Role in My Work</th></tr>
+<tr><td>Software Development</td><td>Applications · Tools · Systems</td><td>Primary</td></tr>
+<tr><td>Web Development</td><td>Frontend · Backend · APIs</td><td>Primary</td></tr>
+<tr><td>Automation</td><td>AI Automation · Workflows · Productivity</td><td>Primary</td></tr>
+<tr><td>Tool Design</td><td>Developer Tools · Utilities · Systems</td><td>Primary</td></tr>
+<tr><td>Android Development</td><td>Mobile Applications · Interfaces</td><td>Active</td></tr>
+<tr><td>Artificial Intelligence</td><td>AI Applications · Intelligent Tools</td><td>Active</td></tr>
+<tr><td>Machine / Deep Learning</td><td>Models · Neural Networks · Experiments</td><td>Supporting</td></tr>
 </table>
 
 <br>
 
-## 🔬 AI LAB / RESEARCH DIRECTION
+## 🔬 CURRENTLY EXPLORING
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=2400&pause=700&color=60A5FA&center=true&vCenter=true&width=860&lines=LLM+Evaluation;Agentic+Workflow+Design;Multimodal+AI;Computer+Vision+Experiments;Local+%2F+On-Device+AI;Neural+Network+Experiments;Robotics+Software+Research" alt="AI research direction"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=2400&pause=700&color=60A5FA&center=true&vCenter=true&width=860&lines=AI-powered+Automation;Advanced+Software+Tools;Web+%26+Full-Stack+Systems;Android+Applications;Computer+Vision+Experiments;AI+Assistants+%26+Intelligent+Utilities;Machine+Learning+%26+Deep+Learning" alt="Current direction"/>
 
 </div>
-
-<p align="center">
-I use this space to turn ideas into reproducible experiments, prototypes, and production-oriented systems.
-</p>
 
 <br>
 
@@ -178,7 +175,7 @@ I use this space to turn ideas into reproducible experiments, prototypes, and pr
 
 <br><br>
 
-**Personal portfolio • projects • skills • professional profile**
+**Projects · skills · experience · professional profile**
 
 </div>
 
@@ -188,7 +185,7 @@ I use this space to turn ideas into reproducible experiments, prototypes, and pr
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=90&text=RESEARCH%20%E2%86%92%20PROTOTYPE%20%E2%86%92%20VALIDATE%20%E2%86%92%20ENGINEER%20%E2%86%92%20DEPLOY%20%E2%86%92%20ITERATE&fontSize=18&fontColor=A78BFA&animation=fadeIn" width="100%" alt="Engineering workflow"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=90&text=PLAN%20%E2%86%92%20DESIGN%20%E2%86%92%20BUILD%20%E2%86%92%20AUTOMATE%20%E2%86%92%20TEST%20%E2%86%92%20IMPROVE&fontSize=18&fontColor=A78BFA&animation=fadeIn" width="100%" alt="Engineering workflow"/>
 
 </div>
 
@@ -199,17 +196,7 @@ I use this space to turn ideas into reproducible experiments, prototypes, and pr
 **Computer Science & Engineering**  
 Bangladesh Army University of Engineering & Technology (BAUET)
 
-**Core interests:** Algorithms · Software Engineering · Computer Networks · Systems · Artificial Intelligence · Machine Learning
-
-<br>
-
-## ◈ NOW EXPLORING
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=2200&pause=700&color=34D399&center=true&vCenter=true&width=800&lines=Agentic+AI;Multimodal+Systems;Local+%2F+On-Device+AI;Computer+Vision;Intelligent+Automation;Robotics+Software;Production+AI+Infrastructure" alt="Current focus"/>
-
-</div>
+**Core interests:** Algorithms · Software Engineering · Web Systems · Automation · Artificial Intelligence
 
 <br>
 
@@ -224,14 +211,6 @@ Bangladesh Army University of Engineering & Technology (BAUET)
 
 <img src="https://streak-stats.demolab.com/?user=abdurrahman422&theme=github-dark-blue&hide_border=true&background=0B1020&ring=8B5CF6&fire=A78BFA&currStreakLabel=CBD5E1" alt="GitHub streak"/>
 
-</div>
-
-<br>
-
-## 🏆 MILESTONES
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=abdurrahman422&theme=onestar&no-frame=true&no-bg=true&row=1&column=7&margin-w=12" alt="GitHub trophies"/>
 </div>
 
 <br>
