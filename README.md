@@ -140,6 +140,69 @@ A broader collection of software, AI experiments, interfaces, tools and product 
 
 <br>
 
+## 🧬 AI CAPABILITY MATRIX
+
+<table>
+<tr><th>Domain</th><th>Focus</th><th>Engineering Layer</th></tr>
+<tr><td>Generative AI</td><td>LLMs · AI Agents · RAG</td><td>Application / Inference</td></tr>
+<tr><td>Machine Learning</td><td>Models · Evaluation · Pipelines</td><td>Data / Model</td></tr>
+<tr><td>Deep Learning</td><td>Neural Networks · CNNs</td><td>Training / Inference</td></tr>
+<tr><td>Computer Vision</td><td>Image Processing · Vision Systems</td><td>Perception</td></tr>
+<tr><td>Intelligent Automation</td><td>Assistants · Workflows · Tools</td><td>Systems</td></tr>
+<tr><td>Robotics Software</td><td>Perception · Decision Logic · AI</td><td>Intelligent Systems</td></tr>
+</table>
+
+<br>
+
+## 🔬 AI LAB / RESEARCH DIRECTION
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=2400&pause=700&color=60A5FA&center=true&vCenter=true&width=860&lines=LLM+Evaluation;Agentic+Workflow+Design;Multimodal+AI;Computer+Vision+Experiments;Local+%2F+On-Device+AI;Neural+Network+Experiments;Robotics+Software+Research" alt="AI research direction"/>
+
+</div>
+
+<p align="center">
+I use this space to turn ideas into reproducible experiments, prototypes, and production-oriented systems.
+</p>
+
+<br>
+
+## 🌐 LIVE PORTFOLIO
+
+<div align="center">
+
+<a href="https://abdurrahman-khaki.vercel.app/">
+<img src="https://img.shields.io/badge/OPEN%20PORTFOLIO-abdurrahman--khaki.vercel.app-312E81?style=for-the-badge&logo=vercel&logoColor=white" alt="Live portfolio"/>
+</a>
+
+<br><br>
+
+**Personal portfolio • projects • skills • professional profile**
+
+</div>
+
+<br>
+
+## 🧭 HOW I BUILD
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=90&text=RESEARCH%20%E2%86%92%20PROTOTYPE%20%E2%86%92%20VALIDATE%20%E2%86%92%20ENGINEER%20%E2%86%92%20DEPLOY%20%E2%86%92%20ITERATE&fontSize=18&fontColor=A78BFA&animation=fadeIn" width="100%" alt="Engineering workflow"/>
+
+</div>
+
+<br>
+
+## 🎓 EDUCATION
+
+**Computer Science & Engineering**  
+Bangladesh Army University of Engineering & Technology (BAUET)
+
+**Core interests:** Algorithms · Software Engineering · Computer Networks · Systems · Artificial Intelligence · Machine Learning
+
+<br>
+
 ## ◈ NOW EXPLORING
 
 <div align="center">
@@ -186,9 +249,7 @@ A broader collection of software, AI experiments, interfaces, tools and product 
 <div align="center">
 
 <a href="https://abdurrahman-khaki.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-abdurrahman--khaki.vercel.app-312E81?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-
 <a href="https://www.linkedin.com/in/abdurrahman422/"><img src="https://img.shields.io/badge/LINKEDIN-Abdur%20Rahman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-
 <a href="mailto:abdurrahman422488@gmail.com"><img src="https://img.shields.io/badge/EMAIL-abdurrahman422488%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <br><br>
