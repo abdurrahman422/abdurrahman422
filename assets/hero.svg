@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="420" viewBox="0 0 1000 420" role="img">
+<defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M 40 0 H 0 V 40" fill="none" stroke="#65ffb4" stroke-opacity=".055"/></pattern><radialGradient id="halo"><stop stop-color="#65ffb4" stop-opacity=".18"/><stop offset="1" stop-color="#080e13" stop-opacity="0"/></radialGradient><linearGradient id="edge"><stop stop-color="#65ffb4"/><stop offset="1" stop-color="#7bdfff"/></linearGradient></defs>
+<rect width="100%" height="100%" rx="16" fill="#080e13"/><rect width="100%" height="100%" rx="16" fill="url(#grid)"/>
+<ellipse cx="825" cy="220" rx="280" ry="250" fill="url(#halo)"/>
+<path d="M32 68V32H68 M932 32H968V68 M32 352V388H68 M932 388H968V352" stroke="#65ffb4" stroke-opacity=".6" fill="none"/>
+<text x="58" y="66" fill="#65ffb4" font-family="Consolas,monospace" font-size="12" letter-spacing="2">AR / INTELLIGENT SYSTEMS</text>
+<text x="58" y="133" fill="#81949f" font-family="Consolas,monospace" font-size="12" letter-spacing="2">@abdurrahman422</text>
+<text x="54" y="204" fill="#f1f7fa" font-family="Segoe UI,Arial,sans-serif" font-size="64" font-weight="700" letter-spacing="-2">Abdur Rahman</text>
+<text x="58" y="248" fill="#65ffb4" font-family="Segoe UI,Arial,sans-serif" font-size="23" >AI &amp; Software Engineer</text>
+<text x="58" y="290" fill="#96aab6" font-family="Segoe UI,Arial,sans-serif" font-size="16" >Practical software. Intelligent tools. Purposeful</text><text x="58" y="312" fill="#96aab6" font-family="Segoe UI,Arial,sans-serif" font-size="16" >automation.</text>
+<g transform="translate(807 211)">
+<circle r="127" fill="none" stroke="#65ffb4" stroke-opacity=".12"/>
+<circle r="101" fill="none" stroke="#65ffb4" stroke-opacity=".3" stroke-dasharray="3 11"/>
+<ellipse rx="118" ry="43" transform="rotate(-38)" fill="none" stroke="#65ffb4" stroke-width="1.4"/>
+<ellipse rx="118" ry="43" transform="rotate(38)" fill="none" stroke="#7bdfff" stroke-opacity=".55"/>
+<path d="M0-65L57-33V33L0 65L-57 33V-33Z M0-65V0L57 33 M0 0L-57 33 M0 0L57-33 M0 0L-57-33 M0 0V65" stroke="url(#edge)" stroke-width="1.8" fill="#65ffb4" fill-opacity=".06"/>
+<circle cx="95" cy="-70" r="4" fill="#65ffb4"/><circle cx="-80" cy="-76" r="3" fill="#7bdfff"/>
+</g>
+<path d="M58 350H942" stroke="#65ffb4" stroke-opacity=".15"/>
+<text x="58" y="377" fill="#849aa6" font-family="Consolas,monospace" font-size="12" letter-spacing="2">IDEAS → CODE → SOMETHING REAL</text>
+<text x="760" y="377" fill="#849aa6" font-family="Consolas,monospace" font-size="12" letter-spacing="2">SOFTWARE + AI</text></svg>

@@ -1,0 +1,31 @@
+{
+  "username": "abdurrahman422",
+  "name": "Abdur Rahman",
+  "role": "AI & Software Engineer",
+  "tagline": "Practical software. Intelligent tools. Purposeful automation.",
+  "bio": "I design and build software, web applications, automation systems, and developer tools. My work brings together APIs, Android applications, management platforms, and AI-powered experiences—with an interest in computer vision, machine learning, and deep learning.",
+  "location": "",
+  "currently": "AI assistants, full-stack applications, and intelligent automation.",
+  "learning": "Computer vision, machine learning, deep learning, and advanced software tools.",
+  "education": "Computer Science & Engineering — Bangladesh Army University of Engineering & Technology (BAUET)",
+  "workflow": "PLAN → DESIGN → BUILD → AUTOMATE → TEST → IMPROVE",
+  "theme": {
+    "accent": "#65ffb4",
+    "secondary": "#7bdfff",
+    "background": "#080e13"
+  },
+  "skills": ["Python", "TypeScript", "JavaScript", "C/C++", "PHP", "React", "Node.js", "FastAPI", "Android", "PyTorch", "TensorFlow", "OpenCV", "MySQL", "PostgreSQL", "Docker", "Linux", "Git"],
+  "projects": [
+    { "name": "NEXA AI", "category": "INTELLIGENT DESKTOP ASSISTANT", "description": "A Windows AI assistant combining voice, chat, live web answers, reminders, and permission-controlled desktop actions. Built around a React and Electron client with a local FastAPI service.", "tech": ["React", "Electron", "TypeScript", "Python", "FastAPI"], "url": "https://github.com/abdurrahman422/nexa_ai", "visual": "neural" },
+    { "name": "StudyType AI", "category": "AI-POWERED LEARNING", "description": "Written-recall examinations with Gemini-powered semantic evaluation, structured academic rubrics, typing telemetry, and learning analytics.", "tech": ["TypeScript", "React", "Express", "Gemini"], "url": "https://github.com/abdurrahman422/StudyType-AI", "demo": "https://study-type-ai.vercel.app", "visual": "learning" },
+    { "name": "BAUET Academic Ecosystem", "category": "ACADEMIC SYSTEMS", "description": "An academic platform connecting management workflows, student services, and digital campus systems.", "tech": ["JavaScript", "Web", "Management Systems"], "url": "https://github.com/abdurrahman422/bauet-academic-ecosystem", "demo": "https://bauet-academic-ecosystem.vercel.app", "visual": "campus" },
+    { "name": "BossFeed", "category": "BUSINESS SOFTWARE", "description": "A poultry and home animal feed management system covering products, users, orders, payments, and administration.", "tech": ["PHP", "MySQL", "Web"], "url": "https://github.com/abdurrahman422/BossFeed", "visual": "commerce" },
+    { "name": "Revive", "category": "HEALTH & EVERYDAY TOOLS", "description": "A medicine reminder application focused on an everyday healthcare need.", "tech": ["Application Development"], "url": "https://github.com/abdurrahman422/Revive", "visual": "health" },
+    { "name": "AR & M Enterprise", "category": "INDUSTRIAL WEB EXPERIENCE", "description": "A web project for feed mill engineering and industrial solutions.", "tech": ["TypeScript", "Next.js"], "url": "https://github.com/abdurrahman422/AR-M--Enterprise", "visual": "industry" }
+  ],
+  "links": [
+    { "label": "Portfolio", "url": "https://abdurrahman-khaki.vercel.app/" },
+    { "label": "LinkedIn", "url": "https://www.linkedin.com/in/abdurrahman422/" },
+    { "label": "Email", "url": "mailto:abdurrahman422488@gmail.com" }
+  ]
+}

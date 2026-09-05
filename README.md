@@ -1,240 +1,87 @@
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="Abdur Rahman's GitHub profile" src="dark_mode.svg" width="100%" />
-</picture>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=I+build+software%2C+tools%2C+web+apps+and+automation.;AI-powered+software+%7C+Intelligent+Automation;Web+Development+%7C+Android+Applications;AI%2C+Machine+Learning+%26+Computer+Vision" alt="Animated headline"/>
-
-<br>
-
-<a href="https://abdurrahman-khaki.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-312E81?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/abdurrahman422/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:abdurrahman422488@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=abdurrahman422&style=for-the-badge&color=312E81&label=PROFILE+VIEWS" alt="Profile views"/>
-
-</div>
-
-<br>
-
-## ◈ WHO I AM
-
-<table>
-<tr>
-<td width="62%" valign="top">
-
-I’m a **Software Developer and AI-focused Engineer** who enjoys designing and building practical digital products.
-
-Most of my work revolves around **software development, web development, automation, tool design, system planning, and product building**. I also build **Android applications, APIs, management systems, and developer tools** when a project needs a complete solution.
-
-AI is an important part of my work, especially **AI-powered automation, intelligent tools, computer vision, and AI-assisted applications**. I also explore **Machine Learning, Deep Learning, and Neural Networks** as supporting areas.
-
-**Plan → Design → Build → Automate → Improve**
-
-</td>
-<td width="38%" align="center" valign="middle">
-
-<img src="https://skillicons.dev/icons?i=python,ts,js,cpp,c,php,react,nodejs,fastapi,androidstudio,pytorch,opencv&perline=4" alt="Core stack"/>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## ◇ MY ENGINEERING SPACE
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/SOFTWARE%20DEVELOPMENT-475569?style=for-the-badge&labelColor=0B1020"/>
-<img src="https://img.shields.io/badge/WEB%20DEVELOPMENT-2563EB?style=for-the-badge&labelColor=0B1020"/>
-<img src="https://img.shields.io/badge/AUTOMATION-7C3AED?style=for-the-badge&labelColor=0B1020"/>
-<img src="https://img.shields.io/badge/TOOL%20DESIGN-D97706?style=for-the-badge&labelColor=0B1020"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/AI%20ENGINEERING-059669?style=for-the-badge&labelColor=0B1020"/>
-<img src="https://img.shields.io/badge/ANDROID%20APPS-22C55E?style=for-the-badge&labelColor=0B1020"/>
-<img src="https://img.shields.io/badge/COMPUTER%20VISION-0891B2?style=for-the-badge&labelColor=0B1020"/>
-<img src="https://img.shields.io/badge/ML%20%2F%20DL-DB2777?style=for-the-badge&labelColor=0B1020"/>
-
-</div>
-
-<br>
-
-## ⚡ FEATURED PROJECTS
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### NEXA AI
-
-**Intelligent AI Assistant Platform**
-
-An AI-focused software system built around practical assistant workflows, service integration, automation, and extensible architecture.
-
-`AI` `Automation` `Backend` `Python`
-
-<a href="https://github.com/abdurrahman422/nexa_ai">↗ Explore project</a>
-
-</td>
-<td width="50%" valign="top">
-
-### STUDYTYPE AI
-
-**AI-Powered Learning Platform**
-
-A full-stack learning system combining written-recall assessment, semantic AI evaluation, analytics, telemetry, and intelligent feedback.
-
-`TypeScript` `Gemini` `AI` `Full Stack`
-
-<a href="https://github.com/abdurrahman422/StudyType-AI">↗ Explore project</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### BAUET ACADEMIC ECOSYSTEM
-
-**Academic Management & Student Platform**
-
-A large-scale software ecosystem focused on academic workflows, management, student services, and connected digital systems.
-
-`Web` `Systems` `Management` `Software`
-
-<a href="https://github.com/abdurrahman422/bauet-academic-ecosystem">↗ Explore project</a>
-
-</td>
-<td width="50%" valign="top">
-
-### BOSSFEED
-
-**Full-Stack Business Management Platform**
-
-A complete business-oriented web system covering products, users, orders, payments, administration, and operational workflows.
-
-`Web` `PHP` `MySQL` `Management`
-
-<a href="https://github.com/abdurrahman422/BossFeed">↗ Explore project</a>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## ◇ STACK
-
+<!-- Generated from profile.json. Run npm run build after editing. -->
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,ts,js,cpp,c,php,react,nodejs,fastapi,androidstudio,pytorch,tensorflow,opencv,docker,linux,mysql,postgres,git,github&perline=9" alt="Technology stack"/>
+  <img src="./assets/hero.svg" width="100%" alt="Abdur Rahman — AI &amp; Software Engineer" />
 </p>
 
-<p align="center">
-<code>Python</code> · <code>TypeScript</code> · <code>JavaScript</code> · <code>C/C++</code> · <code>PHP</code> · <code>React</code> · <code>Node.js</code> · <code>FastAPI</code> · <code>Android</code> · <code>PyTorch</code> · <code>OpenCV</code> · <code>Docker</code>
-</p>
+<p align="center"><a href="https://abdurrahman-khaki.vercel.app/">Explore my portfolio ↗</a> &nbsp; · &nbsp; <a href="#selected-work">Selected work</a> &nbsp; · &nbsp; <a href="#connect">Get in touch</a></p>
 
-<br>
+<img src="./assets/about.svg" width="100%" alt="The engineer behind the code" />
 
-## 🧬 ENGINEERING FOCUS
+I design and build software, web applications, automation systems, and developer tools. My work brings together APIs, Android applications, management platforms, and AI-powered experiences—with an interest in computer vision, machine learning, and deep learning.
 
-<table>
-<tr><th>Domain</th><th>Focus</th><th>Priority</th></tr>
-<tr><td>Software Development</td><td>Applications · Tools · Systems</td><td>Primary</td></tr>
-<tr><td>Web Development</td><td>Frontend · Backend · APIs</td><td>Primary</td></tr>
-<tr><td>Automation</td><td>AI Automation · Workflows · Productivity</td><td>Primary</td></tr>
-<tr><td>Tool Design</td><td>Developer Tools · Utilities · Systems</td><td>Primary</td></tr>
-<tr><td>Android Development</td><td>Mobile Applications · Interfaces</td><td>Active</td></tr>
-<tr><td>Artificial Intelligence</td><td>AI Applications · Intelligent Tools</td><td>Active</td></tr>
-<tr><td>Machine / Deep Learning</td><td>Models · Neural Networks · Experiments</td><td>Supporting</td></tr>
-</table>
+**Education** · Computer Science &amp; Engineering — Bangladesh Army University of Engineering &amp; Technology (BAUET)
 
-<br>
+| Right now | |
+| :--- | :--- |
+| **Building** | AI assistants, full-stack applications, and intelligent automation. |
+| **Exploring** | Computer vision, machine learning, deep learning, and advanced software tools. |
 
-## 🔬 CURRENTLY EXPLORING
+<p align="center"><samp>PLAN → DESIGN → BUILD → AUTOMATE → TEST → IMPROVE</samp></p>
 
-<div align="center">
+<a id="selected-work"></a>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=2400&pause=700&color=60A5FA&center=true&vCenter=true&width=860&lines=AI-powered+Automation;Advanced+Software+Tools;Web+%26+Full-Stack+Systems;Android+Applications;Computer+Vision+Experiments;AI+Assistants+%26+Intelligent+Utilities;Machine+Learning+%26+Deep+Learning" alt="Current direction"/>
+<img src="./assets/work.svg" width="100%" alt="Selected systems" />
 
-</div>
+<a href="https://github.com/abdurrahman422/nexa_ai"><img src="./assets/project-1.svg" width="100%" alt="NEXA AI — A Windows AI assistant combining voice, chat, live web answers, reminders, and permission-controlled desktop actions. Built around a React and Electron client with a local FastAPI service." /></a>
 
-<br>
+A Windows AI assistant combining voice, chat, live web answers, reminders, and permission-controlled desktop actions. Built around a React and Electron client with a local FastAPI service.
 
-## 🌐 LIVE PORTFOLIO
+<a href="https://github.com/abdurrahman422/nexa_ai">Explore repository ↗</a>
 
-<div align="center">
+<br />
 
-<a href="https://abdurrahman-khaki.vercel.app/">
-<img src="https://img.shields.io/badge/OPEN%20PORTFOLIO-abdurrahman--khaki.vercel.app-312E81?style=for-the-badge&logo=vercel&logoColor=white" alt="Live portfolio"/>
-</a>
+<a href="https://github.com/abdurrahman422/StudyType-AI"><img src="./assets/project-2.svg" width="100%" alt="StudyType AI — Written-recall examinations with Gemini-powered semantic evaluation, structured academic rubrics, typing telemetry, and learning analytics." /></a>
 
-<br><br>
+Written-recall examinations with Gemini-powered semantic evaluation, structured academic rubrics, typing telemetry, and learning analytics.
 
-**Projects · skills · experience · professional profile**
+<a href="https://github.com/abdurrahman422/StudyType-AI">Explore repository ↗</a> &nbsp; · &nbsp; <a href="https://study-type-ai.vercel.app/">Live demo ↗</a>
 
-</div>
+<br />
 
-<br>
+<a href="https://github.com/abdurrahman422/bauet-academic-ecosystem"><img src="./assets/project-3.svg" width="100%" alt="BAUET Academic Ecosystem — An academic platform connecting management workflows, student services, and digital campus systems." /></a>
 
-## 🧭 HOW I BUILD
+An academic platform connecting management workflows, student services, and digital campus systems.
 
-<div align="center">
+<a href="https://github.com/abdurrahman422/bauet-academic-ecosystem">Explore repository ↗</a> &nbsp; · &nbsp; <a href="https://bauet-academic-ecosystem.vercel.app/">Live demo ↗</a>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=90&text=PLAN%20%E2%86%92%20DESIGN%20%E2%86%92%20BUILD%20%E2%86%92%20AUTOMATE%20%E2%86%92%20TEST%20%E2%86%92%20IMPROVE&fontSize=18&fontColor=A78BFA&animation=fadeIn" width="100%" alt="Engineering workflow"/>
+<br />
 
-</div>
+<a href="https://github.com/abdurrahman422/BossFeed"><img src="./assets/project-4.svg" width="100%" alt="BossFeed — A poultry and home animal feed management system covering products, users, orders, payments, and administration." /></a>
 
-<br>
+A poultry and home animal feed management system covering products, users, orders, payments, and administration.
 
-## 🎓 EDUCATION
+<a href="https://github.com/abdurrahman422/BossFeed">Explore repository ↗</a>
 
-**Computer Science & Engineering**  
-Bangladesh Army University of Engineering & Technology (BAUET)
+<br />
 
-**Core interests:** Algorithms · Software Engineering · Web Systems · Automation · Artificial Intelligence
+<a href="https://github.com/abdurrahman422/Revive"><img src="./assets/project-5.svg" width="100%" alt="Revive — A medicine reminder application focused on an everyday healthcare need." /></a>
 
-<br>
+A medicine reminder application focused on an everyday healthcare need.
 
-## 📈 GITHUB SIGNAL
+<a href="https://github.com/abdurrahman422/Revive">Explore repository ↗</a>
 
-<div align="center">
+<br />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abdurrahman422&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=A78BFA&icon_color=8B5CF6&text_color=CBD5E1" alt="GitHub statistics"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdurrahman422&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=A78BFA&text_color=CBD5E1" alt="Top languages"/>
+<a href="https://github.com/abdurrahman422/AR-M--Enterprise"><img src="./assets/project-6.svg" width="100%" alt="AR &amp; M Enterprise — A web project for feed mill engineering and industrial solutions." /></a>
 
-<br><br>
+A web project for feed mill engineering and industrial solutions.
 
-<img src="https://streak-stats.demolab.com/?user=abdurrahman422&theme=github-dark-blue&hide_border=true&background=0B1020&ring=8B5CF6&fire=A78BFA&currStreakLabel=CBD5E1" alt="GitHub streak"/>
+<a href="https://github.com/abdurrahman422/AR-M--Enterprise">Explore repository ↗</a>
 
-</div>
+<br />
 
-<br>
+<p align="center"><a href="https://github.com/abdurrahman422?tab=repositories">Browse all repositories ↗</a></p>
 
-## 🐍 CONTRIBUTION FLOW
+<img src="./assets/stack.svg" width="100%" alt="Technology arsenal" />
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/abdurrahman422/abdurrahman422/output/github-contribution-grid-snake-dark.svg" alt="Contribution animation"/>
-</div>
+<code>Python</code> &nbsp; <code>TypeScript</code> &nbsp; <code>JavaScript</code> &nbsp; <code>C/C++</code> &nbsp; <code>PHP</code> &nbsp; <code>React</code> &nbsp; <code>Node.js</code> &nbsp; <code>FastAPI</code> &nbsp; <code>Android</code> &nbsp; <code>PyTorch</code> &nbsp; <code>TensorFlow</code> &nbsp; <code>OpenCV</code> &nbsp; <code>MySQL</code> &nbsp; <code>PostgreSQL</code> &nbsp; <code>Docker</code> &nbsp; <code>Linux</code> &nbsp; <code>Git</code>
 
-<br>
+<a id="connect"></a>
 
-## 🌐 CONNECT
+<img src="./assets/connect.svg" width="100%" alt="Open a conversation" />
 
-<div align="center">
+<a href="https://github.com/abdurrahman422">GitHub ↗</a> &nbsp; · &nbsp; <a href="https://abdurrahman-khaki.vercel.app/">Portfolio ↗</a> &nbsp; · &nbsp; <a href="https://www.linkedin.com/in/abdurrahman422/">LinkedIn ↗</a> &nbsp; · &nbsp; <a href="mailto:abdurrahman422488@gmail.com">Email ↗</a>
 
-<a href="https://abdurrahman-khaki.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-abdurrahman--khaki.vercel.app-312E81?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/abdurrahman422/"><img src="https://img.shields.io/badge/LINKEDIN-Abdur%20Rahman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:abdurrahman422488@gmail.com"><img src="https://img.shields.io/badge/EMAIL-abdurrahman422488%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+---
 
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:312E81,55:1E1B4B,100:0B1020" width="100%" alt="Footer"/>
-
-</div>
+<p align="center"><sub>Made with curiosity. Always a work in progress.</sub></p>
