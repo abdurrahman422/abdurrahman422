@@ -18,14 +18,20 @@
   <text x="70" y="320" fill="#d4e0e2" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="600">AI &amp; Software Engineer</text>
   <text x="70" y="356" fill="#8fa3ab" font-family="Segoe UI,Arial,sans-serif" font-size="17">Software Development  •  Intelligent Automation  •  Full-Stack Systems</text>
   <text x="70" y="407" fill="#65ffb4" font-family="Consolas,monospace" font-size="12" letter-spacing="2">@ABDURRAHMAN422  //  BUILDING USEFUL INTELLIGENT SOFTWARE</text>
-  <g transform="translate(1000 218)" fill="none">
-    <circle r="132" stroke="#65ffb4" stroke-opacity=".12"/>
-    <circle r="103" stroke="#65ffb4" stroke-opacity=".4" stroke-dasharray="3 11"/>
-    <circle r="73" stroke="#7bdfff" stroke-opacity=".28"/>
-    <path d="M0-72L62-36V36L0 72L-62 36V-36Z" fill="#65ffb4" fill-opacity=".04" stroke="url(#accent)" stroke-width="2"/>
-    <path d="M-34 36L0-52L34 36M-22 8H22M42-40V40M42-40H72Q91-40 91-19Q91 1 72 1H42M70 1L96 40" stroke="url(#accent)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
-    <circle r="16" fill="#65ffb4" fill-opacity=".18" stroke="#65ffb4"/>
-    <circle r="6" fill="#65ffb4" filter="url(#soft)"/>
+  <g transform="translate(1000 218)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle r="142" stroke="#65ffb4" stroke-opacity=".1"/>
+    <circle r="116" stroke="#65ffb4" stroke-opacity=".32" stroke-dasharray="3 10"/>
+    <ellipse rx="135" ry="52" transform="rotate(-24)" stroke="#7bdfff" stroke-opacity=".23"/>
+    <ellipse rx="135" ry="52" transform="rotate(24)" stroke="#65ffb4" stroke-opacity=".23"/>
+    <path d="M0-69L60-35V35L0 69L-60 35V-35Z M0-69V0L60 35M0 0L-60 35M0 0L60-35M0 0L-60-35M0 0V69" fill="#65ffb4" fill-opacity=".035" stroke="url(#accent)" stroke-width="2"/>
+    <path d="M-103-64L-60-35M-116 8L-60 4M-89 76L-43 44M97-70L56-39M119 3L60 2M91 78L43 44" stroke="#65ffb4" stroke-opacity=".52"/>
+    <g fill="#071014" stroke="url(#accent)" stroke-width="2">
+      <circle cx="-103" cy="-64" r="7"/><circle cx="-116" cy="8" r="8"/><circle cx="-89" cy="76" r="7"/>
+      <circle cx="97" cy="-70" r="7"/><circle cx="119" cy="3" r="8"/><circle cx="91" cy="78" r="7"/>
+      <circle cx="0" cy="0" r="18"/>
+    </g>
+    <circle r="7" fill="#65ffb4" stroke="none" filter="url(#soft)"/>
+    <path d="M-29-12L-14-24M14-24L29-12M-29 12L-14 24M14 24L29 12" stroke="#7bdfff" stroke-opacity=".7"/>
   </g>
   <path d="M690 397H1128" stroke="#65ffb4" stroke-opacity=".16"/>
 </svg>

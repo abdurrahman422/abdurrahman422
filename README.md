@@ -1,6 +1,5 @@
 <div align="center">
 <img src="./assets/hero.svg" width="100%" alt="Assalamu Alaikum, I'm Abdur Rahman — AI and Software Engineer" />
-<br/><br/><img src="./assets/intro-card.svg" width="88%" alt="Assalamu Alaikum, I'm Abdur Rahman — AI and Software Engineer" />
 
 ```console
 SYSTEM INITIALIZED // IDENTITY VERIFIED // AI + SOFTWARE CHANNEL ONLINE █
