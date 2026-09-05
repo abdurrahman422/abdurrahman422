@@ -18,20 +18,14 @@
   <text x="70" y="320" fill="#d4e0e2" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="600">AI &amp; Software Engineer</text>
   <text x="70" y="356" fill="#8fa3ab" font-family="Segoe UI,Arial,sans-serif" font-size="17">Software Development  •  Intelligent Automation  •  Full-Stack Systems</text>
   <text x="70" y="407" fill="#65ffb4" font-family="Consolas,monospace" font-size="12" letter-spacing="2">@ABDURRAHMAN422  //  BUILDING USEFUL INTELLIGENT SOFTWARE</text>
-  <g transform="translate(865 92)">
-    <rect width="270" height="252" rx="15" fill="#09161a" stroke="#65ffb4" stroke-opacity=".28"/>
-    <path d="M0 43H270" stroke="#65ffb4" stroke-opacity=".18"/>
-    <circle cx="22" cy="22" r="4" fill="#65ffb4"/><circle cx="38" cy="22" r="4" fill="#7bdfff" fill-opacity=".7"/><circle cx="54" cy="22" r="4" fill="#8fa3ab" fill-opacity=".5"/>
-    <text x="185" y="27" fill="#789098" font-family="Consolas,monospace" font-size="9" letter-spacing="1">AI.SYSTEM</text>
-    <g transform="translate(135 132)" stroke-linecap="round">
-      <path d="M-86-42L-42-67L0-37L47-67L89-30M-86-42L-55 4L-83 51M-42-67L-55 4L-18 54M0-37L-55 4L-18 54L32 37L82 61M0-37L32 37L89-30M47-67L89-30L32 37" fill="none" stroke="#65ffb4" stroke-opacity=".42" stroke-width="1.5"/>
-      <path d="M-86-42L0-37L89-30M-83 51L-18 54L82 61" fill="none" stroke="#7bdfff" stroke-opacity=".25"/>
-      <g fill="#071014" stroke="url(#accent)" stroke-width="2">
-        <circle cx="-86" cy="-42" r="8"/><circle cx="-42" cy="-67" r="7"/><circle cy="-37" r="10"/><circle cx="47" cy="-67" r="7"/><circle cx="89" cy="-30" r="8"/><circle cx="-55" cy="4" r="10"/><circle cx="-83" cy="51" r="7"/><circle cx="-18" cy="54" r="9"/><circle cx="32" cy="37" r="11"/><circle cx="82" cy="61" r="7"/>
-      </g>
-      <circle cx="32" cy="37" r="4" fill="#65ffb4" filter="url(#soft)"/>
-    </g>
-    <path d="M24 221H93M24 231H74M188 221H246M203 231H246" stroke="#789098" stroke-opacity=".45"/>
+  <g transform="translate(1000 218)" fill="none">
+    <circle r="132" stroke="#65ffb4" stroke-opacity=".12"/>
+    <circle r="103" stroke="#65ffb4" stroke-opacity=".4" stroke-dasharray="3 11"/>
+    <circle r="73" stroke="#7bdfff" stroke-opacity=".28"/>
+    <path d="M0-72L62-36V36L0 72L-62 36V-36Z" fill="#65ffb4" fill-opacity=".04" stroke="url(#accent)" stroke-width="2"/>
+    <path d="M-34 36L0-52L34 36M-22 8H22M42-40V40M42-40H72Q91-40 91-19Q91 1 72 1H42M70 1L96 40" stroke="url(#accent)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle r="16" fill="#65ffb4" fill-opacity=".18" stroke="#65ffb4"/>
+    <circle r="6" fill="#65ffb4" filter="url(#soft)"/>
   </g>
   <path d="M690 397H1128" stroke="#65ffb4" stroke-opacity=".16"/>
 </svg>

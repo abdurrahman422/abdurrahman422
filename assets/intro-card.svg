@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="340" viewBox="0 0 1000 340" role="img" aria-labelledby="title desc">
+  <title id="title">Assalamu Alaikum, I'm Abdur Rahman</title>
+  <desc id="desc">Professional introduction card for Abdur Rahman, AI and Software Engineer</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1"><stop stop-color="#050b0e"/><stop offset=".55" stop-color="#091418"/><stop offset="1" stop-color="#061014"/></linearGradient>
+    <linearGradient id="line" x1="0" x2="1"><stop stop-color="#65ffb4"/><stop offset="1" stop-color="#7bdfff"/></linearGradient>
+    <radialGradient id="halo"><stop stop-color="#65ffb4" stop-opacity=".16"/><stop offset="1" stop-color="#65ffb4" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#65ffb4" stroke-opacity=".035"/></pattern>
+  </defs>
+  <rect width="1000" height="340" rx="18" fill="url(#bg)"/>
+  <rect width="1000" height="340" rx="18" fill="url(#grid)"/>
+  <ellipse cx="835" cy="170" rx="240" ry="220" fill="url(#halo)"/>
+  <path d="M28 72V28H72M928 28H972V72M28 268V312H72M928 312H972V268" fill="none" stroke="#65ffb4" stroke-opacity=".5" stroke-width="2"/>
+  <text x="65" y="76" fill="#80959e" font-family="Consolas,monospace" font-size="12" letter-spacing="3">WELCOME // PROFESSIONAL PROFILE</text>
+  <text x="65" y="145" fill="#65ffb4" font-family="Segoe UI,Arial,sans-serif" font-size="28" font-weight="500">Assalamu Alaikum,</text>
+  <text x="62" y="215" fill="#f1f7f6" font-family="Segoe UI,Arial,sans-serif" font-size="54" font-weight="800">I'm Abdur Rahman</text>
+  <rect x="65" y="239" width="82" height="3" rx="2" fill="url(#line)"/>
+  <text x="65" y="282" fill="#c6d3d6" font-family="Segoe UI,Arial,sans-serif" font-size="20" font-weight="600">AI &amp; Software Engineer</text>
+  <text x="65" y="309" fill="#7f949c" font-family="Consolas,monospace" font-size="11" letter-spacing="1.5">BUILDING PRACTICAL SOFTWARE &amp; INTELLIGENT SYSTEMS</text>
+  <g transform="translate(830 169)" fill="none">
+    <circle r="104" stroke="#65ffb4" stroke-opacity=".16"/>
+    <circle r="78" stroke="#65ffb4" stroke-opacity=".38" stroke-dasharray="3 9"/>
+    <path d="M-55-32L0-64L55-32V32L0 64L-55 32Z" stroke="url(#line)" stroke-width="2"/>
+    <path d="M-55-32L0 0L55-32M0-64V0M0 0V64M-55 32L0 0L55 32" stroke="url(#line)" stroke-opacity=".65"/>
+    <circle r="15" fill="#65ffb4" fill-opacity=".18" stroke="#65ffb4"/>
+    <circle r="5" fill="#65ffb4"/>
+  </g>
+</svg>
