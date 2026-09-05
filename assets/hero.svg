@@ -1,21 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="420" viewBox="0 0 1000 420" role="img">
-<defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M 40 0 H 0 V 40" fill="none" stroke="#65ffb4" stroke-opacity=".055"/></pattern><radialGradient id="halo"><stop stop-color="#65ffb4" stop-opacity=".18"/><stop offset="1" stop-color="#080e13" stop-opacity="0"/></radialGradient><linearGradient id="edge"><stop stop-color="#65ffb4"/><stop offset="1" stop-color="#7bdfff"/></linearGradient></defs>
-<rect width="100%" height="100%" rx="16" fill="#080e13"/><rect width="100%" height="100%" rx="16" fill="url(#grid)"/>
-<ellipse cx="825" cy="220" rx="280" ry="250" fill="url(#halo)"/>
-<path d="M32 68V32H68 M932 32H968V68 M32 352V388H68 M932 388H968V352" stroke="#65ffb4" stroke-opacity=".6" fill="none"/>
-<text x="58" y="66" fill="#65ffb4" font-family="Consolas,monospace" font-size="12" letter-spacing="2">AR / INTELLIGENT SYSTEMS</text>
-<text x="58" y="133" fill="#81949f" font-family="Consolas,monospace" font-size="12" letter-spacing="2">@abdurrahman422</text>
-<text x="54" y="204" fill="#f1f7fa" font-family="Segoe UI,Arial,sans-serif" font-size="64" font-weight="700" letter-spacing="-2">Abdur Rahman</text>
-<text x="58" y="248" fill="#65ffb4" font-family="Segoe UI,Arial,sans-serif" font-size="23" >AI &amp; Software Engineer</text>
-<text x="58" y="290" fill="#96aab6" font-family="Segoe UI,Arial,sans-serif" font-size="16" >Practical software. Intelligent tools. Purposeful</text><text x="58" y="312" fill="#96aab6" font-family="Segoe UI,Arial,sans-serif" font-size="16" >automation.</text>
-<g transform="translate(807 211)">
-<circle r="127" fill="none" stroke="#65ffb4" stroke-opacity=".12"/>
-<circle r="101" fill="none" stroke="#65ffb4" stroke-opacity=".3" stroke-dasharray="3 11"/>
-<ellipse rx="118" ry="43" transform="rotate(-38)" fill="none" stroke="#65ffb4" stroke-width="1.4"/>
-<ellipse rx="118" ry="43" transform="rotate(38)" fill="none" stroke="#7bdfff" stroke-opacity=".55"/>
-<path d="M0-65L57-33V33L0 65L-57 33V-33Z M0-65V0L57 33 M0 0L-57 33 M0 0L57-33 M0 0L-57-33 M0 0V65" stroke="url(#edge)" stroke-width="1.8" fill="#65ffb4" fill-opacity=".06"/>
-<circle cx="95" cy="-70" r="4" fill="#65ffb4"/><circle cx="-80" cy="-76" r="3" fill="#7bdfff"/>
-</g>
-<path d="M58 350H942" stroke="#65ffb4" stroke-opacity=".15"/>
-<text x="58" y="377" fill="#849aa6" font-family="Consolas,monospace" font-size="12" letter-spacing="2">IDEAS → CODE → SOMETHING REAL</text>
-<text x="760" y="377" fill="#849aa6" font-family="Consolas,monospace" font-size="12" letter-spacing="2">SOFTWARE + AI</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-labelledby="title desc">
+  <title id="title">Assalamu Alaikum, I am Abdur Rahman</title>
+  <desc id="desc">Professional profile header for Abdur Rahman, AI and Software Engineer</desc>
+  <defs>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#65ffb4" stroke-opacity=".035"/></pattern>
+    <radialGradient id="glow"><stop stop-color="#65ffb4" stop-opacity=".18"/><stop offset="1" stop-color="#071014" stop-opacity="0"/></radialGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#65ffb4"/><stop offset="1" stop-color="#7bdfff"/></linearGradient>
+    <filter id="soft"><feGaussianBlur stdDeviation="8"/></filter>
+  </defs>
+  <rect width="1200" height="460" rx="18" fill="#071014"/>
+  <rect width="1200" height="460" rx="18" fill="url(#grid)"/>
+  <ellipse cx="1000" cy="220" rx="320" ry="300" fill="url(#glow)"/>
+  <path d="M35 85V35H85M1115 35H1165V85M35 375V425H85M1115 425H1165V375" fill="none" stroke="#65ffb4" stroke-opacity=".55" stroke-width="2"/>
+  <text x="70" y="82" fill="#88a0aa" font-family="Consolas,monospace" font-size="13" letter-spacing="3">WELCOME TO MY DIGITAL SPACE</text>
+  <text x="70" y="155" fill="#65ffb4" font-family="Segoe UI,Arial,sans-serif" font-size="30" font-weight="500">Assalamu Alaikum,</text>
+  <text x="67" y="240" fill="#f3f8f7" font-family="Segoe UI,Arial,sans-serif" font-size="70" font-weight="800" letter-spacing="-2">I'm Abdur Rahman</text>
+  <rect x="70" y="270" width="92" height="3" rx="2" fill="url(#accent)"/>
+  <text x="70" y="320" fill="#d4e0e2" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="600">AI &amp; Software Engineer</text>
+  <text x="70" y="356" fill="#8fa3ab" font-family="Segoe UI,Arial,sans-serif" font-size="17">Software Development  •  Intelligent Automation  •  Full-Stack Systems</text>
+  <text x="70" y="407" fill="#65ffb4" font-family="Consolas,monospace" font-size="12" letter-spacing="2">@ABDURRAHMAN422  //  BUILDING USEFUL INTELLIGENT SOFTWARE</text>
+  <g transform="translate(1000 218)" fill="none">
+    <circle r="132" stroke="#65ffb4" stroke-opacity=".12"/>
+    <circle r="103" stroke="#65ffb4" stroke-opacity=".4" stroke-dasharray="3 11"/>
+    <circle r="73" stroke="#7bdfff" stroke-opacity=".28"/>
+    <path d="M0-72L62-36V36L0 72L-62 36V-36Z" fill="#65ffb4" fill-opacity=".04" stroke="url(#accent)" stroke-width="2"/>
+    <path d="M-34 36L0-52L34 36M-22 8H22M42-40V40M42-40H72Q91-40 91-19Q91 1 72 1H42M70 1L96 40" stroke="url(#accent)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle r="16" fill="#65ffb4" fill-opacity=".18" stroke="#65ffb4"/>
+    <circle r="6" fill="#65ffb4" filter="url(#soft)"/>
+  </g>
+  <path d="M690 397H1128" stroke="#65ffb4" stroke-opacity=".16"/>
+</svg>

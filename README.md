@@ -1,6 +1,5 @@
 <div align="center">
-<img src="./assets/cinematic/hero.webp" width="100%" alt="Abdur Rahman's cinematic AI laboratory" />
-<br/><br/><img src="./assets/hero.svg" width="100%" alt="Abdur Rahman — AI and Software Engineer" />
+<img src="./assets/hero.svg" width="100%" alt="Assalamu Alaikum, I'm Abdur Rahman — AI and Software Engineer" />
 <br/><br/><img src="./assets/cinematic/emblem.webp" width="72%" alt="Original AR chrome emblem" />
 
 ```console
